@@ -8,12 +8,10 @@ int main()
     string str_1, str_2;
     cout << "enter the word" << endl;
     cin >> str_1;
-    //str_1 = "кирпич"; //кирпич + кирпич = здание
     //str_1 = "shine"; //shine + shine = light
     x = str_1.size();
     cout << "enter the result" << endl;
     cin >> str_2;
-    //str_2 = "здание";
     //str_2 = "light";
     y = str_2.size();
     short mass_x [x], m_x [x], pat_1[x];
