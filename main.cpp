@@ -1,4 +1,4 @@
-//ver. 1.0 by AEffect 11.01.13 20:11
+//ver. 1.0 by Alexeenko Vsevolod 11.01.13 20:11
 #include "functions.h"
 
 int main()
